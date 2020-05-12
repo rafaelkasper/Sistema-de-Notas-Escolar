@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Banco de dados: `ruibarbosa`
+-- Banco de dados: `sistemaescolar`
 --
 
 -- --------------------------------------------------------
@@ -74,10 +74,8 @@ CREATE TABLE `ads` (
 --
 
 INSERT INTO `ads` (`id`, `nome_ads`, `login`, `senha`, `email`, `telefone`, `niveis_acesso`) VALUES
-(1, 'Barbosinha', 'barbosinha', '$2y$10$ba0QwxYggsV8D2uzmvDYOO334L94PNhg2k1vPxiqcfH', '', '', 1),
-(2, 'Secretaria Rui Barbosa 1', 'secretariarb1', '$2y$10$3J4r5RTSlIoXpbIWX8dn3eU9SbyRIO0BMKd54JXm79I', '', '', 1),
-(3, 'Programador', 'programador', '$2y$10$wC1JFhyp/TxFZkvVGCqMFu/DTFvOVFDOfxO9506pGjl', '', '', 1),
-(4, 'Secretaria Rui Barbosa 2', 'secretariarb2', '$2y$10$h2LtF0NFQ2aYkx3rD8U5EOqxz8P5aoXTY.k2yNr2hds', '', '', 1);
+(1, 'Administrador', 'admin', 'admin', '', '', 1),
+
 
 -- --------------------------------------------------------
 
