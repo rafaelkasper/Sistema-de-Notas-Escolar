@@ -22,8 +22,7 @@
                 <a class="nav-link dropdown-toggle text-white bg-info" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-search"></i>     <strong>CONSULTAR</strong></a>
                 <div class="dropdown-menu text-white bg-info">
                     <a class="dropdown-item text-white bg-info" href="professor_agenda.php"><i class="far fa-calendar-alt text-white"></i>     AGENDA</a>
-                    <a class="dropdown-item text-white bg-info" href="professor_consultar_horas.php"><i class="fas fa-user-clock text-white"></i>     HORAS</a>
-                    <a class="dropdown-item text-white bg-info" href="professor_consultar_media.php"><i class="far fa-bookmark text-white"></i>     MÉDIA</a>
+                        <a class="dropdown-item text-white bg-info" href="professor_consultar_media.php"><i class="far fa-bookmark text-white"></i>     MÉDIA</a>
                     <a class="dropdown-item text-white bg-info" href="professor_calcular_media_anual.php"><i class="far fa-bookmark text-white"></i>     MÉDIA ANUAL</a>
          
                     <a class="dropdown-item text-white bg-info" href="professor_visualizar_nota.php"><i class="fas fa-award text-white"></i>     NOTAS</a>
