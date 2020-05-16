@@ -17,15 +17,7 @@
             </li>
 
 
-            <li class="nav-item dropdown pl-3 pr-3">
-                <a class="nav-link dropdown-toggle text-white bg-info" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-sd-card"></i>     <strong>CADASTRAR</strong></a>
-                <div class="dropdown-menu bg-info">
-                    <a class="dropdown-item text-white bg-info" href="equipe_cadastrar_horas_func.php"><i class="fas fa-business-time text-white"></i>      HORAS FUNCIONÁRIOS</a>
-                    <a class="dropdown-item text-white bg-info" href="equipe_cadastrar_horas.php"><i class="fas fa-user-clock text-white"></i>      HORAS PROFESSORES</a>
-
-
-                </div>
-            </li>
+            
 
 
             <li class="nav-item dropdown pl-3 pr-3">
@@ -33,9 +25,7 @@
                 <div class="dropdown-menu bg-info">
                     <a class="dropdown-item text-white bg-info" href="equipe_agenda.php"><i class="far fa-calendar-alt text-white"></i>      AGENDA</a>
                      <a class="dropdown-item text-white bg-info" href="equipe_consultar_formativa.php"><i class="fas fa-graduation-cap text-white"></i>     FORMATIVA</a>
-                    <a class="dropdown-item text-white bg-info" href="equipe_consultar_horas_func.php"><i class="fas fa-business-time text-white"></i>     HORAS FUNCIONÁRIOS</a>
-                    <a class="dropdown-item text-white bg-info" href="equipe_consultar_horas.php"><i class="fas fa-user-clock text-white"></i>     HORAS PROFESSORES</a>
-                    <a class="dropdown-item text-white bg-info" href="equipe_visualizar_medias.php"><i class="far fa-bookmark text-white"></i>     MÉDIA</a>
+                   <a class="dropdown-item text-white bg-info" href="equipe_visualizar_medias.php"><i class="far fa-bookmark text-white"></i>     MÉDIA</a>
                     <a class="dropdown-item text-white bg-info" href="equipe_visualizar_notas.php"><i class="fas fa-award text-white"></i>     NOTAS</a>
 
 
